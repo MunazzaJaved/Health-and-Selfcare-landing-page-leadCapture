@@ -139,7 +139,7 @@ button:hover{
     #hero{
         grid-template-columns: 1fr;
        padding: 5px;
-       height: 90vh !important;
+/*        height: 90vh !important; */
         
     }
     #hero div{
@@ -197,6 +197,6 @@ button:hover{
  }
  @media(max-width:1200px){
     #hero{
-        height: 70vh !important;
+/*         height: 70vh !important; */
     }
  }
